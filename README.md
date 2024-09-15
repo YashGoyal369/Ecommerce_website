@@ -1,1 +1,1 @@
-
+This project is a fully functional, responsive eCommerce website built using [technologies/tools used, e.g., HTML, CSS, JavaScript, React, Node.js, etc.]. The platform allows users to browse, search, and purchase products with a seamless shopping experience.
